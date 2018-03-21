@@ -1,0 +1,2 @@
+attrdict==2.0.0
+git+git@github.com:ga4gh/vmc-python.git@1a62d81717ff213d2a18edcea63487b4c0030a66#egg=vmc
