@@ -99,3 +99,9 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# our data
+packaged-scores/
+output/
+vest-transform.sqlite
+*.out
